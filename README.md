@@ -8,4 +8,5 @@ Como colocar uma imagem:
 Coloque a imagem que quer pesquisar dentro dos diretórios do Google Colab e depois cole o caminho da imagem na variável "consulta".
 
 Resultados:
-blob:https://aistudio.google.com/10435eb2-4ee3-4eca-b4d8-250f98a54f5b
+![image](https://github.com/leonardomeneguetti/Projeto_Alura/assets/159548686/03113174-5f5e-49bd-ae78-b9f2cbb79a73)
+
