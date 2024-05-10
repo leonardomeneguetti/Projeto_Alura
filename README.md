@@ -5,7 +5,7 @@ Objetivo do projeto é usar a API da Google AI Studio para buscar por um produto
 Todos já estivemos em uma situação onde estamos descendo pelo feed de alguma rede social e nos deparamos com algum produto que ficamos interessados, mas o link para a página da loja não está disponível, é nessa situação que um projeto como esse é útil.
 
 Como colocar uma imagem:
-Coloque a imagem que quer pesquisar dentro dos diretórios do Google Colab e depois cole o caminho da imagem na variável "consulta".
+Coloque a imagem que quer pesquisar dentro dos diretórios do Google Colab e depois cole o caminho da imagem na variável "image".
 
 # Exemplo de resultado:
 ![image](https://github.com/leonardomeneguetti/Projeto_Alura/assets/159548686/03113174-5f5e-49bd-ae78-b9f2cbb79a73)
