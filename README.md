@@ -7,6 +7,7 @@ Todos já estivemos em uma situação onde estamos descendo pelo feed de alguma 
 Como colocar uma imagem:
 Coloque a imagem que quer pesquisar dentro dos diretórios do Google Colab e depois cole o caminho da imagem na variável "consulta".
 
-Resultados:
+**Resultados:**
 ![image](https://github.com/leonardomeneguetti/Projeto_Alura/assets/159548686/03113174-5f5e-49bd-ae78-b9f2cbb79a73)
 
+**Resposta:**
